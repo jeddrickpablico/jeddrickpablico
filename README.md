@@ -19,7 +19,6 @@ My focus is on deploying reliable systems architecture, configuring enterprise-g
 
 When I'm not configuring networks, I enjoy competitive lap swimming to perfect my stroke mechanics and camping across Ontario's provincial parks. I love the "aha!" moment when a complex network topology or a tricky technical bottleneck finally clicks into place.
 
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
