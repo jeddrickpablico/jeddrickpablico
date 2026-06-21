@@ -18,24 +18,27 @@ I'm a Network Engineering Technology student at Sheridan College passionate abou
 My focus is on deploying reliable systems architecture, configuring enterprise-grade routing and switching protocols, and managing database backends that ensure absolute data integrity and network uptime.
 
 When I'm not configuring networks, I enjoy competitive lap swimming to perfect my stroke mechanics and camping across Ontario's provincial parks. I love the "aha!" moment when a complex network topology or a tricky technical bottleneck finally clicks into place.
-
       
 ## 🔭 What I'm Currently Working On 
 
-- **Personal Homelab:** Building and configuring a home laboratory environment from scratch, currently experimenting with Windows Active Directory infrastructure, domain controller configuration, and user policies.
-- **Database Infrastructure:** Writing and optimizing robust script collections utilizing T-SQL and MongoDB database management systems.
+- **Active Directory Infrastructure & Homelab:** Successfully deployed a fully functional Windows Server AD environment within my VMware homelab. I've implemented strict Identity and Access Management (IAM) principles, Organizational Unit (OU) hierarchies, Role-Based Access Control (RBAC), and client domain joins. I am currently engineering Group Policy Objects (GPOs) to enforce automated security hardening across the network.
+  - 📂 **[Active Directory Project Main Repository](https://github.com/jeddrickpablico/ActiveDirectoryProjects/blob/main/README.md)**
+  - 📖 **[Domain Controller Installation & IAM Deployment Guide](https://github.com/jeddrickpablico/ActiveDirectoryProjects/blob/main/DomainControllerInstallationAndSetup.md)**
+- **Network Simulation & Design (Cisco Packet Tracer):** Built and modeled an enterprise-scale network infrastructure. Configured centralized DHCP servers to handle automated IP allocation across segregated multi-layer topologies, implemented Inter-VLAN routing (Router-on-a-Stick), and established IP helper addresses to ensure seamless relay of broadcast traffic across subnet boundaries.
 
 ## 🌱 Currently Learning 
 
+- **Advanced Industry Certifications:** Actively preparing for the **Cisco Certified Network Associate (CCNA)** and **CompTIA Security+** examinations to deepen my engineering capabilities across infrastructure security and complex multi-vendor routing matrixes.
+- **Enterprise Security Management:** Mastering Group Policy Management to centrally deploy security baselines, map network drives, and automate software distribution.
 - **Advanced Infrastructure Management:** Deepening my knowledge of enterprise network routing matrixes, switching architectures, and core security principles.
-- **Software Development Logic:** Exploring advanced data structures and optimization practices through the Java Collections Framework.
 
 ## 🛠️ Technical Skillset
 
 #### Networking & Systems Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Network%20Routing%20%26%20Switching-Advanced-00B5E2?style=flat" alt="Routing Skill Badge">
-  <img src="https://img.shields.io/badge/Active%20Directory-Experimenting-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Active Directory Badge">
+  <img src="https://img.shields.io/badge/Windows%20Server-2022%20%2F%202025-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows Server Badge">
+  <img src="https://img.shields.io/badge/Active%20Directory-Deployed-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Active Directory Badge">
   <img src="https://img.shields.io/badge/Systems%20Administration-Intermediate-4ECDC4?style=flat" alt="SysAdmin Skill Badge">
   <img src="https://img.shields.io/badge/Homelab%20Architecture-Experienced-96CEB4?style=flat" alt="Homelab Skill Badge">
   <img src="https://img.shields.io/badge/Hardware%20Maintenance-Expert-45B7D1?style=flat" alt="Hardware Skill Badge">
