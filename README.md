@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Network Engineering Technology student at Sheridan College passionate about designing, configuring, and securing robust IT infrastructures. Combining a strong background in customer service and industrial operations with deep technical training, I enjoy transforming complex deployment concepts into highly functional physical and virtual environments.
+I'm a Network Engineering Technology student at Sheridan College, passionate about designing, configuring, and securing robust IT infrastructures. Combining a strong background in customer service and industrial operations with deep technical training, I enjoy transforming complex deployment concepts into highly functional physical and virtual environments. I love the "aha!" moment when a complex network topology or a tricky technical bottleneck finally clicks into place.
 
-My focus is on deploying reliable systems architecture, configuring enterprise-grade routing and switching protocols, and managing database backends that ensure absolute data integrity and network uptime.
+My focus is on deploying reliable systems architecture, configuring enterprise-grade routing and switching protocols, and managing database backends that ensure absolute data integrity and network uptime. 
 
-When I'm not configuring networks, I enjoy competitive lap swimming to perfect my stroke mechanics and camping across Ontario's provincial parks. I love the "aha!" moment when a complex network topology or a tricky technical bottleneck finally clicks into place.
+When I'm not configuring networks, I enjoy competitive lap swimming to perfect my stroke mechanics and camping across Ontario's provincial parks. 
       
 ## 🔭 What I'm Currently Working On 
 
