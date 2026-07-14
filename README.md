@@ -21,15 +21,17 @@ When I'm not configuring networks, I enjoy competitive lap swimming to perfect m
       
 ## 🔭 What I'm Currently Working On 
 
-- **Active Directory Infrastructure & Homelab:** Successfully deployed a fully functional Windows Server AD environment within my VMware homelab. I've implemented strict Identity and Access Management (IAM) principles, Organizational Unit (OU) hierarchies, Role-Based Access Control (RBAC), and client domain joins. I am currently engineering Group Policy Objects (GPOs) to enforce automated security hardening across the network.
+- **Active Directory Infrastructure & Homelab:** Successfully deployed a fully functional Windows Server AD environment within my VMware homelab. I've implemented strict Identity and Access Management (IAM), Organizational Unit (OU) hierarchies, Group Policy Objects (GPOs) for automated security hardening, and centralized network storage. Most recently, I architected advanced Windows File Services utilizing granular NTFS/Share permissions, Access-Based Enumeration (ABE), and File Server Resource Manager (FSRM) to enforce strict Principle of Least Privilege access.
   - 📂 **[Active Directory Project Main Repository](https://github.com/jeddrickpablico/ActiveDirectoryProjects/blob/main/README.md)**
   - 📖 **[Domain Controller Installation & IAM Deployment Guide](https://github.com/jeddrickpablico/ActiveDirectoryProjects/blob/main/DomainControllerInstallationAndSetup.md)**
+  - 📖 **[Group Policy Management & Security Hardening Activity](https://github.com/jeddrickpablico/ActiveDirectoryProjects/blob/main/GPOProject.md)**
+  - 📖 **[Windows File Services & Permission Management](https://github.com/jeddrickpablico/ActiveDirectoryProjects/blob/main/FileServicesAndPermissionsProject.md)**
 - **Network Simulation & Design (Cisco Packet Tracer):** Built and modeled an enterprise-scale network infrastructure. Configured centralized DHCP servers to handle automated IP allocation across segregated multi-layer topologies, implemented Inter-VLAN routing (Router-on-a-Stick), and established IP helper addresses to ensure seamless relay of broadcast traffic across subnet boundaries.
 
 ## 🌱 Currently Learning 
 
 - **Advanced Industry Certifications:** Actively preparing for the **Cisco Certified Network Associate (CCNA)** and **CompTIA Security+** examinations to deepen my engineering capabilities across infrastructure security and complex multi-vendor routing matrixes.
-- **Enterprise Security Management:** Mastering Group Policy Management to centrally deploy security baselines, map network drives, and automate software distribution.
+- **Enterprise Security & Storage Management:** Mastering centralized deployment of security baselines, network drive mapping, and isolating departmental data via robust NTFS permission inheritance structures.
 - **Advanced Infrastructure Management:** Deepening my knowledge of enterprise network routing matrixes, switching architectures, and core security principles.
 
 ## 🛠️ Technical Skillset
