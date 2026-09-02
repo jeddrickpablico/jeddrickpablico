@@ -30,7 +30,7 @@ When I'm not configuring networks, I enjoy competitive lap swimming to perfect m
 
 ## 🌱 Currently Learning 
 
-- **Advanced Industry Certifications:** Actively preparing for the **Cisco Certified Network Associate (CCNA)** and **CompTIA Security+** examinations to deepen my engineering capabilities across infrastructure security and complex multi-vendor routing matrixes.
+- **Advanced Industry Certifications:** Actively preparing for the **Cisco Certified Network Associate (CCNA)** examination to deepen my networking capabilities.
 - **Enterprise Security & Storage Management:** Mastering centralized deployment of security baselines, network drive mapping, and isolating departmental data via robust NTFS permission inheritance structures.
 - **Advanced Infrastructure Management:** Deepening my knowledge of enterprise network routing matrixes, switching architectures, and core security principles.
 
