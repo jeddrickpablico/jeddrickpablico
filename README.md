@@ -48,10 +48,10 @@ When I'm not configuring networks, I enjoy competitive lap swimming to perfect m
 
 #### Professional Certifications (Click to Verify Credentials)
 <p>
-  <a href="https://www.credly.com/badges/9f914be8-25b7-4ee1-a11f-10a433037781" target="_blank">
+  <a href="https://www.credly.com/badges/d8522d08-7582-4728-83fd-9230315a5925" target="_blank">
     <img src="https://img.shields.io/badge/CompTIA%20Network%2B-Verified-00B5E2?style=flat&logo=comptia&logoColor=white" alt="Network+ Badge">
   </a>
-  <a href="https://www.credly.com/badges/d8522d08-7582-4728-83fd-9230315a5925" target="_blank">
+  <a href="https://www.credly.com/badges/9f914be8-25b7-4ee1-a11f-10a433037781" target="_blank">
     <img src="https://img.shields.io/badge/CompTIA%20A%2B-Verified-ED1C24?style=flat&logo=comptia&logoColor=white" alt="A+ Badge">
   </a>
   <a href="https://www.credly.com/badges/e9675f37-3b9c-4b43-bdb5-e5f1e2621aac" target="_blank">
